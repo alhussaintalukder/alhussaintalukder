@@ -123,9 +123,9 @@ Built and maintained 30+ websites using PHP, WordPress, and MySQL with full proj
 
 ## 📈 GitHub Stats
 
-![Al Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=alhussaintalukder&show_icons=true&theme=radical)
+![Al Hussain's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=alhussaintalukder&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhussaintalukder&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alhussaintalukder&layout=compact&theme=radical)
 
 ---
 
