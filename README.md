@@ -93,11 +93,6 @@ A comprehensive mobile application for shopping list management and expense trac
 
 Developing mobile and web applications for SMEs using React Native, React.js, Spring Boot, and managing cloud infrastructure.
 
-### Founder @ Al Hussain Smart Solution
-*Dec 2025 - Present | Khulna, Bangladesh*
-
-Building innovative mobile and web solutions that make life better. Successfully launched SmartList on Google Play Store as the flagship product.
-
 ### Web Developer @ webNanny
 *Aug 2017 - Dec 2022 | Remote (Ireland)*
 
